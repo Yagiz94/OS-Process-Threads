@@ -2,9 +2,9 @@ Participant:
 	Yagiz Gani
 	
 Definition: 	
--> Using multiple processes and threads histogram is implemented in this project.
+-> In this project, a Histogram is implemented by using multiple processes and by using multiple threads.
 
--> syn_phistogram uses multiprocess execution and syn_thistogram uses multi-thread execution.
+-> syn_phistogram uses multi-process execution and syn_thistogram uses multi-thread execution.
 
 In syn_phistogram.c: 
 
