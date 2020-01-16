@@ -4,7 +4,7 @@ Participant:
 Definition: 	
 -> In this project, a Histogram is implemented by using multiple processes and by using multiple threads.
 
--> syn_phistogram uses multi-process execution and syn_thistogram uses multi-thread execution.
+-> syn_phistogram.c uses multi-process execution and syn_thistogram.c uses multi-thread execution.
 
 In syn_phistogram.c: 
 
