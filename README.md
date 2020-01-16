@@ -5,6 +5,8 @@ Definition:
 
 -> In this project, a Histogram is implemented by using multiple processes and multiple threads.
 
+-> Semaphore is implemented to manage process synchronization & mutex lock is used to establish thread synchronization.
+
 -> syn_phistogram.c uses multi-process execution and syn_thistogram.c uses multi-thread execution.
 
 In syn_phistogram.c: 
