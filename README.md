@@ -1,4 +1,3 @@
-# OS-Process-Threads
 Participant:
 	Yagiz Gani
 
