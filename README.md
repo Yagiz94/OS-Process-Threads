@@ -1,5 +1,9 @@
 Participant:
 	Yagiz Gani
+	
+Definition: 	
+-> Using multiple processes and threads histogram is implemented in this project.
+-> syn_phistogram uses multiprocess execution and syn_thistogram uses multi-thread execution.
 
 In syn_phistogram.c: 
 
